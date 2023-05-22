@@ -23,7 +23,7 @@
  
 </div>
  
-[![Teste de descrição](https://github-readme-stats.vercel.app/api/pin/?username=Ygor-Gabriel&repo=Ygor-Gabriel&theme=react)](https://github.com/Ygor-Gabriel/Ygor-Gabriel)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Ygor-Gabriel&repo=Ygor-Gabriel&theme=react)](https://github.com/Ygor-Gabriel/Ygor-Gabriel)
 
 
  
