@@ -27,5 +27,5 @@
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Ygor-Gabriel&repo=Ygor-Gabriel&theme=react)](https://github.com/Ygor-Gabriel/Ygor-Gabriel)
 
-  ![Snake animation](https://github.com/Ygor-Gabriel/Ygor-Gabriel/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ygor-Gabriel/Ygor-Gabriel/blob/output/github-contribution-grid-snake.gif)
  
