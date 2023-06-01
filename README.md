@@ -20,9 +20,8 @@
 </div>
   <a href="https://www.instagram.com/_ygormarques/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/ygor-marques-035b4321b?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-    
-    ![Snake animation](https://github.com/Ygor-Gabriel/Ygor-Gabriel/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/Ygor-Gabriel/Ygor-Gabriel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
